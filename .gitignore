@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data (no subir datos locales grandes)
+data/*.csv
+data/*.parquet
