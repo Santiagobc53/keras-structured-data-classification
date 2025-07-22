@@ -64,3 +64,11 @@ Distribuido bajo licencia Apache 2.0, en línea con las políticas de los notebo
 
 ¿Te sirvió este proyecto o tienes dudas?
 Escríbeme o revisa mi perfil en GitHub para ver más proyectos de machine learning y ciencia de datos.
+
+## Capturas del entorno real
+
+### 1. Google Cloud Vertex AI Workbench
+![Vertex AI Lab](docs/screenshots/GoogleCloud%20Vertex%20AI%20Lab.png)
+
+### 2. JupyterLab en Google Cloud
+![JupyterLab](docs/screenshots/google%20Cloud%20Jupyter%20Lab.png)
